@@ -4,7 +4,7 @@
   "description": "server side capstone based on the pikes peak pats website",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
   },
   "dependencies": {
     "body-parser": "^1.15.2",
@@ -24,5 +24,10 @@
   "bugs": {
     "url": "https://github.com/michaelablackham/thinkful-sscap-ppp/issues"
   },
-  "homepage": "https://github.com/michaelablackham/thinkful-sscap-ppp#readme"
+  "homepage": "https://github.com/michaelablackham/thinkful-sscap-ppp#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "chai-http": "^3.0.0",
+    "mocha": "^2.5.3"
+  }
 }
