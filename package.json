@@ -1,0 +1,19 @@
+{
+  "name": "sscapstone-ppp",
+  "version": "1.0.0",
+  "description": "server side capstone based on the pikes peak pats website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelablackham/thinkful-sscap-ppp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michaelablackham/thinkful-sscap-ppp/issues"
+  },
+  "homepage": "https://github.com/michaelablackham/thinkful-sscap-ppp#readme"
+}
