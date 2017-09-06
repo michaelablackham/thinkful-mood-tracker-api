@@ -7,3 +7,4 @@ deploy:
   app: arcane-oasis-88611
   on:
     repo: michaelablackham/thinkful-sscap-ppp
+    
