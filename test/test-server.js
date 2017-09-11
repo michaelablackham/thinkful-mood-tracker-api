@@ -21,8 +21,8 @@ describe('Node Capstone', function () {
     '/membership.html',
     '/profile.html',
     '/sign-in.html'
-  ].forEach (route => {
-    it (route, done => {
+  ].forEach(route => {
+    it(route, done => {
       chai.request(app)
       .get(route)
       .end(function(err, res) {
