@@ -1,8 +1,14 @@
 Service Side Capstone - Pikes Peak Pats DB
 
-## AJAX CALLS
+### AJAX CALLS
 - [ ] log in => /user/login
 - [ ] create account => /user/create-account
 - [ ] user profile => /user/profile
 - [ ] contact list => /contacts
 - [ ] patriot's nation => /contacts/location
+
+### STATIC PAGES
+- [ ] contact us => /contact.html
+- [ ] membership => /membership.html
+- [ ] about => /about.html
+- [ ] members => /about.html
