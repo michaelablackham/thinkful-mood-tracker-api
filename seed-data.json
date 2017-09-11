@@ -4,9 +4,11 @@
     "firstName": "Rocky",
     "lastName": "Harpster",
     },
-  "homeTown": "Pheonix",
-  "homeState": "Arizona",
-  "homeCountry": "USA",
+  "hometownAddress": {
+    "hometown": "Pheonix",
+    "homeState": "Arizona",
+    "homeCountry": "USA",
+  },
   "email": "ro.harps@autozone-inc.info",
   "public": "true"
 }
@@ -16,9 +18,11 @@
     "firstName": "Jackson",
     "lastName": "Raynes",
     },
-  "homeTown": "Siera Vista",
-  "homeState": "Arizona",
-  "homeCountry": "USA",
+  "hometownAddress": {
+    "hometown": "Siera Vista",
+    "homeState": "Arizona",
+    "homeCountry": "USA",
+  },
   "email": "jacray@autozone-inc.info",
   "public": "true"
 }
@@ -28,9 +32,11 @@
     "firstName": "Dhruv",
     "lastName": "Heater",
     },
-  "homeTown": "Bakersfield",
-  "homeState": "California",
-  "homeCountry": "USA",
+  "hometownAddress": {
+    "hometown": "Bakersfield",
+    "homeState": "California",
+    "homeCountry": "USA",
+  },
   "email": "dh_heat@progressenergyinc.info",
   "public": "true"
 }
@@ -40,9 +46,11 @@
     "firstName": "Mandel",
     "lastName": "Vargas",
     },
-  "homeTown": "Covina",
-  "homeState": "California",
-  "homeCountry": "USA",
+  "hometownAddress": {
+    "hometown": "Covina",
+    "homeState": "California",
+    "homeCountry": "USA",
+  },
   "email": "dh_heat@progressenergyinc.info",
   "public": "true"
 }
@@ -52,9 +60,11 @@
     "firstName": "Eldon",
     "lastName": "Jowers",
     },
-  "homeTown": "Los Angeles",
-  "homeState": "California",
-  "homeCountry": "USA",
+  "hometownAddress": {
+    "hometown": "Los Angeles",
+    "homeState": "California",
+    "homeCountry": "USA",
+  },
   "email": "eldojow@progressenergyinc.info",
   "public": "true"
 }
@@ -64,9 +74,11 @@
     "firstName": "Irene",
     "lastName": "Hardaway",
     },
-  "homeTown": "San Fernando",
-  "homeState": "California",
-  "homeCountry": "USA",
+  "hometownAddress": {
+    "hometown": "San Fernando",
+    "homeState": "California",
+    "homeCountry": "USA",
+  },
   "email": "irene_har@arvinmeritor.info",
   "public": "true"
 }
@@ -76,9 +88,11 @@
     "firstName": "Josslyn",
     "lastName": "Savoie",
     },
-  "homeTown": "Santa Maria",
-  "homeState": "California",
-  "homeCountry": "USA",
+  "hometownAddress": {
+    "hometown": "Santa Maria",
+    "homeState": "California",
+    "homeCountry": "USA",
+  },
   "email": "jo_savo@progressenergyinc.info",
   "public": "true"
 }
@@ -88,9 +102,11 @@
     "firstName": "Tamatha",
     "lastName": "Zubia",
     },
-  "homeTown": "Colorado Springs",
-  "homeState": "Colorado",
-  "homeCountry": "USA",
+  "hometownAddress": {
+    "hometown": "Colorado Springs",
+    "homeState": "Colorado",
+    "homeCountry": "USA",
+  },
   "email": "tamat-zub@arvinmeritor.info",
   "public": "true"
 }
@@ -100,9 +116,11 @@
     "firstName": "Stenton",
     "lastName": "Sartori",
     },
-  "homeTown": "Denver",
-  "homeState": "Colorado",
-  "homeCountry": "USA",
+  "hometownAddress": {
+    "hometown": "Denver",
+    "homeState": "Colorado",
+    "homeCountry": "USA",
+  },
   "email": "stento-sartor@arvinmeritor.info",
   "public": "true"
 }
@@ -112,9 +130,11 @@
     "firstName": "Cian",
     "lastName": "Katz",
     },
-  "homeTown": "Pueblo",
-  "homeState": "Colorado",
-  "homeCountry": "USA",
+  "hometownAddress": {
+    "hometown": "Pueblo",
+    "homeState": "Colorado",
+    "homeCountry": "USA",
+  },
   "email": "cian.kat@egl-inc.info",
   "public": "true"
 }
@@ -124,9 +144,11 @@
     "firstName": "Winnie",
     "lastName": "Kozlowski",
     },
-  "homeTown": "Ramah",
-  "homeState": "Colorado",
-  "homeCountry": "USA",
+  "hometownAddress": {
+    "hometown": "Ramah",
+    "homeState": "Colorado",
+    "homeCountry": "USA",
+  },
   "email": "winnkozlowsk@diaperstack.com",
   "public": "true"
 }
@@ -136,9 +158,11 @@
     "firstName": "Skipper",
     "lastName": "Rutter",
     },
-  "homeTown": "North Glen",
-  "homeState": "Colorado",
-  "homeCountry": "USA",
+  "hometownAddress": {
+    "hometown": "North Glen",
+    "homeState": "Colorado",
+    "homeCountry": "USA",
+  },
   "email": "sk.rutte@autozone-inc.info",
   "public": "true"
 }
@@ -148,9 +172,11 @@
     "firstName": "Neo",
     "lastName": "Tiger",
     },
-  "homeTown": "Parker",
-  "homeState": "Colorado",
-  "homeCountry": "USA",
+  "hometownAddress": {
+    "hometown": "Parker",
+    "homeState": "Colorado",
+    "homeCountry": "USA",
+  },
   "email": "ne.tiger@progressenergyinc.info",
   "public": "true"
 }
@@ -160,9 +186,11 @@
     "firstName": "Haddon",
     "lastName": "Delia",
     },
-  "homeTown": "Denver",
-  "homeState": "Colorado",
-  "homeCountry": "USA",
+  "hometownAddress": {
+    "hometown": "Denver",
+    "homeState": "Colorado",
+    "homeCountry": "USA",
+  },
   "email": "haddon-delia@progressenergyinc.info",
   "public": "true"
 }
@@ -172,9 +200,11 @@
     "firstName": "Skipper",
     "lastName": "Rutter",
     },
-  "homeTown": "Denver",
-  "homeState": "Colorado",
-  "homeCountry": "USA",
+  "hometownAddress": {
+    "hometown": "Denver",
+    "homeState": "Colorado",
+    "homeCountry": "USA",
+  },
   "email": "sk.rutte@autozone-inc.info",
   "public": "true"
 }
@@ -184,9 +214,11 @@
     "firstName": "Durriken",
     "lastName": "Martell",
     },
-  "homeTown": "Bloomfield",
-  "homeState": "Connecticut",
-  "homeCountry": "USA",
+  "hometownAddress": {
+    "hometown": "Bloomfield",
+    "homeState": "Connecticut",
+    "homeCountry": "USA",
+  },
   "email": "durriken.ma@egl-inc.info",
   "public": "true"
 }
@@ -196,9 +228,11 @@
     "firstName": "Morenwyn",
     "lastName": "Sher",
     },
-  "homeTown": "Jacksonville",
-  "homeState": "Florida",
-  "homeCountry": "USA",
+  "hometownAddress": {
+    "hometown": "Jacksonville",
+    "homeState": "Florida",
+    "homeCountry": "USA",
+  },
   "email": "morenwyn_she@diaperstack.com",
   "public": "true"
 }
@@ -208,9 +242,11 @@
     "firstName": "Yered",
     "lastName": "Sartori",
     },
-  "homeTown": "Columbus",
-  "homeState": "Georgia",
-  "homeCountry": "USA",
+  "hometownAddress": {
+    "hometown": "Columbus",
+    "homeState": "Georgia",
+    "homeCountry": "USA",
+  },
   "email": "yesartor@autozone-inc.info",
   "public": "true"
 }
@@ -220,9 +256,11 @@
     "firstName": "Anatola",
     "lastName": "Nicklas",
     },
-  "homeTown": "Savannah",
-  "homeState": "Georgia",
-  "homeCountry": "USA",
+  "hometownAddress": {
+    "hometown": "Savannah",
+    "homeState": "Georgia",
+    "homeCountry": "USA",
+  },
   "email": "anato-nicklas@progressenergyinc.info",
   "public": "true"
 }
@@ -232,9 +270,11 @@
     "firstName": "Gwen",
     "lastName": "Garland",
     },
-  "homeTown": "Nampa",
-  "homeState": "Idaho",
-  "homeCountry": "USA",
+  "hometownAddress": {
+    "hometown": "Nampa",
+    "homeState": "Idaho",
+    "homeCountry": "USA",
+  },
   "email": "gwe.garlan@autozone-inc.info",
   "public": "true"
 }
@@ -244,9 +284,11 @@
     "firstName": "Serge",
     "lastName": "Lafever",
     },
-  "homeTown": "Braintree",
-  "homeState": "Massachusetts",
-  "homeCountry": "USA",
+  "hometownAddress": {
+    "hometown": "Braintree",
+    "homeState": "Massachusetts",
+    "homeCountry": "USA",
+  },
   "email": "serg.lafever@arvinmeritor.info",
   "public": "true"
 }
@@ -256,9 +298,11 @@
     "firstName": "Athelstan",
     "lastName": "Lockett",
     },
-  "homeTown": "Weymouth",
-  "homeState": "Massachusetts",
-  "homeCountry": "USA",
+  "hometownAddress": {
+    "hometown": "Weymouth",
+    "homeState": "Massachusetts",
+    "homeCountry": "USA",
+  },
   "email": "athelst_locke@egl-inc.info",
   "public": "true"
 }
@@ -268,9 +312,11 @@
     "firstName": "Darlene",
     "lastName": "Vandenheuvel",
     },
-  "homeTown": "Weymouth",
-  "homeState": "Massachusetts",
-  "homeCountry": "USA",
+  "hometownAddress": {
+    "hometown": "Weymouth",
+    "homeState": "Massachusetts",
+    "homeCountry": "USA",
+  },
   "email": "darlen.vand@arvinmeritor.info",
   "public": "true"
 }
@@ -280,9 +326,11 @@
     "firstName": "Kaatje",
     "lastName": "Mouser",
     },
-  "homeTown": "North Dartmouth",
-  "homeState": "Massachusetts",
-  "homeCountry": "USA",
+  "hometownAddress": {
+    "hometown": "North Dartmouth",
+    "homeState": "Massachusetts",
+    "homeCountry": "USA",
+  },
   "email": "kaatje-mou@diaperstack.com",
   "public": "true"
 }
@@ -292,9 +340,11 @@
     "firstName": "Kamaria",
     "lastName": "Keil",
     },
-  "homeTown": "Watertown",
-  "homeState": "Massachusetts",
-  "homeCountry": "USA",
+  "hometownAddress": {
+    "hometown": "Watertown",
+    "homeState": "Massachusetts",
+    "homeCountry": "USA",
+  },
   "email": "kamke@diaperstack.com",
   "public": "true"
 }
@@ -304,9 +354,11 @@
     "firstName": "Rowena",
     "lastName": "Underhill",
     },
-  "homeTown": "Quincy",
-  "homeState": "Massachusetts",
-  "homeCountry": "USA",
+  "hometownAddress": {
+    "hometown": "Quincy",
+    "homeState": "Massachusetts",
+    "homeCountry": "USA",
+  },
   "email": "ro.underhill@arvinmeritor.info",
   "public": "true"
 }
@@ -316,9 +368,11 @@
     "firstName": "Tona",
     "lastName": "Magnus",
     },
-  "homeTown": "Frankfurt",
-  "homeState": "",
-  "homeCountry": "Germany",
+  "hometownAddress": {
+    "hometown": "Frankfurt",
+    "homeState": "",
+    "homeCountry": "Germany",
+  },
   "email": "tona.magnus@egl-inc.info",
   "public": "true"
 }
@@ -328,9 +382,11 @@
     "firstName": "Sitembile",
     "lastName": "Searcy",
     },
-  "homeTown": "Cincinnatti",
-  "homeState": "Ohio",
-  "homeCountry": "USA",
+  "hometownAddress": {
+    "hometown": "Cincinnatti",
+    "homeState": "Ohio",
+    "homeCountry": "USA",
+  },
   "email": "si-searc@autozone-inc.info",
   "public": "true"
 }
@@ -340,9 +396,11 @@
     "firstName": "Harald",
     "lastName": "Martell",
     },
-  "homeTown": "Detroit",
-  "homeState": "Michigan",
-  "homeCountry": "USA",
+  "hometownAddress": {
+    "hometown": "Detroit",
+    "homeState": "Michigan",
+    "homeCountry": "USA",
+  },
   "email": "hara-marte@egl-inc.info",
   "public": "true"
 }
@@ -352,9 +410,11 @@
     "firstName": "Pitney",
     "lastName": "Callejas",
     },
-  "homeTown": "Great Falls",
-  "homeState": "Montana",
-  "homeCountry": "USA",
+  "hometownAddress": {
+    "hometown": "Great Falls",
+    "homeState": "Montana",
+    "homeCountry": "USA",
+  },
   "email": "pitney.callej@diaperstack.com",
   "public": "true"
 }
@@ -364,9 +424,11 @@
     "firstName": "Solomon",
     "lastName": "Roger",
     },
-  "homeTown": "Chicago",
-  "homeState": "Illinois",
-  "homeCountry": "USA",
+  "hometownAddress": {
+    "hometown": "Chicago",
+    "homeState": "Illinois",
+    "homeCountry": "USA",
+  },
   "email": "so.ro@arvinmeritor.info",
   "public": "true"
 }
@@ -376,9 +438,11 @@
     "firstName": "Anoke",
     "lastName": "Lafayette",
     },
-  "homeTown": "Fort Riley",
-  "homeState": "Kansas",
-  "homeCountry": "USA",
+  "hometownAddress": {
+    "hometown": "Fort Riley",
+    "homeState": "Kansas",
+    "homeCountry": "USA",
+  },
   "email": "anok.lafayette@arvinmeritor.info",
   "public": "true"
 }
@@ -388,9 +452,11 @@
     "firstName": "Shauna",
     "lastName": "Spratt",
     },
-  "homeTown": "Portland",
-  "homeState": "Maine",
-  "homeCountry": "USA",
+  "hometownAddress": {
+    "hometown": "Portland",
+    "homeState": "Maine",
+    "homeCountry": "USA",
+  },
   "email": "sha_spra@autozone-inc.info",
   "public": "true"
 }
@@ -400,9 +466,11 @@
     "firstName": "Karmina",
     "lastName": "Troiano",
     },
-  "homeTown": "Temple",
-  "homeState": "Maine",
-  "homeCountry": "USA",
+  "hometownAddress": {
+    "hometown": "Temple",
+    "homeState": "Maine",
+    "homeCountry": "USA",
+  },
   "email": "karmi_troia@arvinmeritor.info",
   "public": "true"
 }
@@ -412,9 +480,11 @@
     "firstName": "Gaylene",
     "lastName": "Cornwall",
     },
-  "homeTown": "Buffalo",
-  "homeState": "New York",
-  "homeCountry": "USA",
+  "hometownAddress": {
+    "hometown": "Buffalo",
+    "homeState": "New York",
+    "homeCountry": "USA",
+  },
   "email": "gaylene-cor@arvinmeritor.info",
   "public": "true"
 }
@@ -424,9 +494,11 @@
     "firstName": "Haddon",
     "lastName": "Ledesma",
     },
-  "homeTown": "Alamogordo",
-  "homeState": "New Mexico",
-  "homeCountry": "USA",
+  "hometownAddress": {
+    "hometown": "Alamogordo",
+    "homeState": "New Mexico",
+    "homeCountry": "USA",
+  },
   "email": "ha.led@arvinmeritor.info",
   "public": "true"
 }
@@ -436,9 +508,11 @@
     "firstName": "Jolie",
     "lastName": "Ashcraft",
     },
-  "homeTown": "Brattleboro",
-  "homeState": "Vermont",
-  "homeCountry": "USA",
+  "hometownAddress": {
+    "hometown": "Brattleboro",
+    "homeState": "Vermont",
+    "homeCountry": "USA",
+  },
   "email": "joli.ashcraf@arvinmeritor.info",
   "public": "true"
 }
@@ -448,9 +522,11 @@
     "firstName": "Alistair",
     "lastName": "Mouser",
     },
-  "homeTown": "Dallas",
-  "homeState": "Texas",
-  "homeCountry": "USA",
+  "hometownAddress": {
+    "hometown": "Dallas",
+    "homeState": "Texas",
+    "homeCountry": "USA",
+  },
   "email": "alistair_mouser@autozone-inc.info",
   "public": "true"
 }
@@ -460,9 +536,11 @@
     "firstName": "Pebbles",
     "lastName": "Prager",
     },
-  "homeTown": "Manaqua",
-  "homeState": "",
-  "homeCountry": "NICARAGUA",
+  "hometownAddress": {
+    "hometown": "Manaqua",
+    "homeState": "",
+    "homeCountry": "NICARAGUA",
+  },
   "email": "pebbles-pra@autozone-inc.info",
   "public": "true"
 }
@@ -472,9 +550,11 @@
     "firstName": "Karmina",
     "lastName": "Ziegler",
     },
-  "homeTown": "Kiev",
-  "homeState": "",
-  "homeCountry": "Ukraine",
+  "hometownAddress": {
+    "hometown": "Kiev",
+    "homeState": "",
+    "homeCountry": "Ukraine",
+  },
   "email": "kar_zi@autozone-inc.info",
   "public": "true"
 }
