@@ -18,7 +18,6 @@ Service Side Capstone - Pikes Peak Pats DB
     - [ ] Profile page
       - [ ] set reminders to fill in an entry
       - [ ] photo, name, phone number, permission for SMS, reminders
-      - [ ]
   - [ ] create new entry
     - [ ] required mood rating: radio button 1-10
     - [ ] textarea for open notes

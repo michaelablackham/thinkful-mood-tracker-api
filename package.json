@@ -1,5 +1,5 @@
 {
-  "name": "sscapstone-ppp",
+  "name": "mood-tracker",
   "version": "1.0.0",
   "description": "server side capstone based on the pikes peak pats website",
   "main": "index.js",
@@ -17,14 +17,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/michaelablackham/thinkful-sscap-ppp.git"
+    "url": "git+https://github.com/michaelablackham/thinkful-sscap-mood-tracker.git"
   },
   "author": "Michaela Blackham",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/michaelablackham/thinkful-sscap-ppp/issues"
+    "url": "https://github.com/michaelablackham/thinkful-sscap-mood-tracker/issues"
   },
-  "homepage": "https://github.com/michaelablackham/thinkful-sscap-ppp#readme",
+  "homepage": "https://github.com/michaelablackham/thinkful-sscap-mood-tracker#readme",
   "devDependencies": {
     "chai": "^3.5.0",
     "chai-http": "^3.0.0",

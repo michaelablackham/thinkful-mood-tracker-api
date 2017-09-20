@@ -1,0 +1,20 @@
+{
+  "id": "0000000000001",
+  "name": {
+    "firstName": "Michaela",
+    "lastName": "Blackham"
+  },
+  "credentials": {
+    "email": "michaelablackham@gmail.com",
+    "password": "hash would go here"
+  },
+  "profilePicture": "",
+  "sms": {
+    "permission": true,
+    "phone": 17819855371
+  },
+  "reminder": {
+    "permission": true,
+    "time": ""
+  }
+}
