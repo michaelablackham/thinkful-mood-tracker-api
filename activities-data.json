@@ -1,0 +1,58 @@
+{
+  "Mood": [1,2,3,4,5,6,7,8,9,10],
+  "activityLevel": [
+    "barely moved",
+    "got off the couch",
+    "normie status",
+    "got my heart pumping",
+    "sweat like a bastard"
+  ],
+  "activities": [
+    "running",
+    "walking",
+    "jogging",
+    "zumba",
+    "gym",
+    "hiking",
+    "swimming",
+    "yoga",
+    "biking",
+    "basketball",
+    "soccer",
+    "kickball",
+    "baseball",
+    "softball",
+    "golf",
+    "tennis",
+    "football",
+    "volleyball",
+
+    "tv",
+    "movies",
+    "video games",
+    "watched sports",
+    "sat on couch",
+
+    "hung out with friends",
+    "camping",
+    "hung out by fire",
+    "beach",
+
+    "went out to eat",
+    "made dinner",
+
+    "read a book",
+    "studied",
+  ],
+  "food": [
+    "vegetables",
+    "fast food",
+    "fruit",
+    "alcohol",
+    "wine",
+    "drank",
+    "drank a lot",
+    "beers",
+  ],
+
+}
