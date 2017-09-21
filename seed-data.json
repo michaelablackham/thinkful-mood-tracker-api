@@ -6,7 +6,10 @@
     "night": "9:37 PM",
     "morning": "5:45 AM"
   },
-  "activities": [  ],
-  "notes": "",
-
+  "activityLevel": "",
+  "activities": [],
+  "food": [],
+  "drinks": [],
+  "work": "",
+  "notes": ""
 }
