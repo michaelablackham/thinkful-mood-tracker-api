@@ -1,11 +1,11 @@
 Service Side Capstone - Mood Tracker
 
 ### pages/calls
-- [ ] log in => /user/login
-- [ ] create account => /user/create-account
-- [ ] user profile => /user/profile
-- [ ] dashboard => /user/dashboard
-- [ ] create new entry => /user/new-entry
+- [ ] log in => /user/login (within users.js)
+<!-- - [ ] create account => /user/create-account -->
+<!-- - [ ] account setting => /account -->
+- [ ] dashboard => /user/dashboard (separate models/model.js)
+- [ ] create new entry => /user/new-entry (within entry.js)
 
 /mood-entries
   GET
@@ -46,3 +46,17 @@ Service Side Capstone - Mood Tracker
       - include a button to see a full view of entries
     - [ ] trends
       - enable user to filter/sort by default (time) or by activities, sleep etc to see common trends
+
+
+
+**ISSUES/to do/good ideas**
+
+- [ ] break up all models for all collection
+- [ ] don't group too many items in to one issue
+- [ ] decide on framework (bootstrap, bulma, etc)
+- [ ] start with the most important things - (entry collection, dashboard, sign in)
+
+- [ ] authentication/sign in
+- [ ] create new entry
+- [ ] dashboard
+- [ ] convert data in to graph
