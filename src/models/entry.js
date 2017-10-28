@@ -3,7 +3,7 @@ entryconst mongoose = require('mongoose');
 // this is our schema to represent a mood entry
 const entrySchema = mongoose.Schema({
   date: Date,
-  mood: {type: Number, required: true},
+  moodRating: {type: Number, required: true},
   sleep: {
     //does date still count for time?
     night: Date,
@@ -22,6 +22,8 @@ const entrySchema = mongoose.Schema({
 //sleep
 entrySchema.virtual('hours').get(function() {
   //need a virtual to calculate the amount of hours of sleep you got
+  // (this.sleep.night)-(this.author.lastName);
+  // return hours;
 });
 
 //return objects wanted from our scheme
@@ -30,8 +32,8 @@ entrySchema.methods.apiRepr = function() {
   return {
     id: this._id,
     date: this.date,
-    mood: this.mood,
-    sleep: this.hours,
+    moodRating: this.mood,
+    // sleep: this.hours,
     activityLevel: this.activityLevel,
     activities: this.activities
     food: this.food
