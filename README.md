@@ -1,4 +1,9 @@
-Service Side Capstone - Mood Tracker
+# The Mood Tracker
+
+My capstone for the Node.js course of Thinkful's Front-end Web Development
+bootcamp.
+The source code for the UI is available
+[here](https://github.com/michaelablackham/thinkful-mood-tracker-ui).
 
 ### pages/calls
 - [ ] log in => /user/login (within users.js)
